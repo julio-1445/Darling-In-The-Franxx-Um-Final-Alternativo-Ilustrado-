@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="../css/paginas.css">
+</head>
+
+<body>
+    <main>
+        <nav id="nav-cima">
+           <div>
+            <p>
+                <a href="">
+                    &lt; ante
+
+                </a>
+            </p>
+            <p class="ind">
+                Capitulo (/ 5 )
+
+            </p>
+            <p>
+                <a href="">
+                    prox &gt;
+
+                </a>
+            </p>
+            </div>
+
+
+        </nav>
+        <header>
+            <h1></h1>
+
+        </header>
+        <section>
+
+
+
+            <p>
+
+            </p>
+
+        </section>
+        <section>
+            <p>
+
+
+            </p>
+
+
+        </section>
+        <section>
+
+            <p>
+
+
+            </p>
+
+
+        </section>
+        <nav id="nav-baixo">
+            <div>
+            <p>
+                <a href="">
+                    &lt; ante
+
+                </a>
+            </p>
+            <p class="ind">
+                pag (/)
+
+            </p>
+            <p>
+                <a href="">
+                    prox &gt;
+
+                </a>
+            </p>
+            </div>
+
+        </nav>
+    </main>
+
+</body>
+
+</html>
